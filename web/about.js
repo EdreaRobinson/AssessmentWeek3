@@ -12,6 +12,7 @@ function handleSubmit(evt) {
 let form = document.querySelector('form#contact');
 
 form.addEventListener('submit', handleSubmit);
+   
 
 
 function mouseoverPic() {

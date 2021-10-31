@@ -36,3 +36,14 @@ input {
 img {
 	max-width: 300px;
 }
+
+.button {
+	display: block;
+  	width: 50%;
+  	background-color:yellow;
+   	padding: 14px 28px;
+  	font-size: large;
+	font-weight: bold;
+  	cursor: pointer;
+  	text-align: center
+}
