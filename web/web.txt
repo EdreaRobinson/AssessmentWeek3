@@ -1,0 +1,10 @@
+-- How the Web Works --
+
+When a URL is entered, a request goes to a Domain Name Server(DNS), which directs you to the appropriate website server by using
+the IP address. The browser sends a request to that server for the page you requested using Hypertext Transfer Protocol(HTTP). When
+the server receives the request, it looks for and returns the requested document to the browser.
+
+When a link is clicked on, the browser is prompted to access the "hidden" information (URL) associated with the item you clicked on.
+This is when the DNS lookup occurs. Once the IP address is located, the website is returned to the browser and the user can begin
+making requests.  The requests are made for the files that allow the page to be displayed by the browser, which could include images,
+JavaSript, HTML and CSS files, or other types of files. 
